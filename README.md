@@ -11,7 +11,7 @@
 For a detailed project description, please refer to the [Project Description PDF](./Project0/LinearAlgebra_Project00.pdf).
 The results report is provided in the [Project Report PDF](./Project0/توضیحات%20پروژه.pdf)
 
-### Project 1
+### Project 1: Jabr Scanner
 For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
 
 ## IDE
