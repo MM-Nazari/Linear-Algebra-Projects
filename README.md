@@ -25,4 +25,4 @@ Step-by-step instructions on how to get the development environment running:
 2. Launch PyCharm.
 3. Click on File > Open.
 4. Navigate to the folder where you cloned the repository and select the project folder.
-5. Click the Run button ![Run Image](./Pycharm_Run.PNG) or press F5 to start the project.
+5. Click the Run button ![Run Image](./Pycharm_Run.PNG) to start the project.
