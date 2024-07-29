@@ -8,10 +8,10 @@
 ## Project Description
 
 ### Project 0
-For a detailed project description, please refer to the [Project Description PDF](./project.pdf).
+For a detailed project description, please refer to the [Project Description PDF](./Project0/توضیحات پروژه.pdf).
 
 ### Project 1
-For a detailed project description, please refer to the [Project Description PDF](./project.pdf).
+For a detailed project description, please refer to the [Project Description PDF](./Project1/LA Project 1.pdf).
 
 ## IDE
 This project is developed using Pycharm.
