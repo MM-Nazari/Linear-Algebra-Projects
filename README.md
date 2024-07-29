@@ -8,7 +8,7 @@
 ## Project Description
 
 ### Project 0: Guass Elimination
-For a detailed project description, please refer to the [Project Description PDF](./Project0/LinearAlgebra_Project00.pdf).
+For a detailed project description, please refer to the [Project Description PDF](./Project0/LinearAlgebra_Project00.pdf). <br />
 The results report is provided in the [Project Report PDF](./Project0/توضیحات%20پروژه.pdf)
 
 ### Project 1: Jabr Scanner
