@@ -14,6 +14,12 @@ The results report is provided in the [Project Report PDF](./Project0/توضیح
 ### Project 1: Jabr Scanner
 For a detailed project description, please refer to the [Project Description PDF](./Project1/LA%20Project%201.pdf).
 
+## Dependencies
+This project uses the following libraries:
+
+- [numpy](https://numpy.org/)
+- [matplotlib](https://matplotlib.org/)
+
 ## IDE
 This project is developed using Pycharm.
 
